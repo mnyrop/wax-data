@@ -1,2 +1,2 @@
 # wax-data
-demo data for wax theme
+demo collection data for minicomp/wax
