@@ -1,0 +1,12 @@
+url: 'https://example.com'
+data_dir: ''
+collections:
+  qatar:
+    data:
+      assets: 'qatar/assets'
+      assets: 'qatar/dictionary.yml'
+      records: 'qatar/records.csv'
+  panoramas:
+    data:
+      assets: 'panoramas/assets'
+      records: 'panoramas/records.csv'
